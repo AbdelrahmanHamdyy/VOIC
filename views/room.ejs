@@ -22,6 +22,47 @@
     <title>Video-Call</title>
   </head>
   <style>
+    * {
+      padding: 0;
+      margin: 0;
+    }
+
+    body {
+      font-family: cursive;
+    }
+
+    nav {
+      background: #0082e6;
+      height: 80px;
+      width: 100%;
+      margin-bottom: 80px;
+    }
+
+    label.logo {
+      color: white;
+      font-size: 35px;
+      line-height: 80px;
+      padding: 0 100px;
+      font-weight: bold;
+    }
+
+    label.sub-text {
+      float: right;
+      margin-right: 20px;
+      color: white;
+      font-size: 20px;
+      line-height: 80px;
+      padding: 0 100px;
+      font-weight: bold;
+    }
+
+    @media (max-width: 952px) {
+      label.logo {
+        font-size: 30px;
+        padding-left: 50px;
+      }
+    }
+
     #video-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, 300px);
@@ -35,6 +76,10 @@
     }
   </style>
   <body>
+    <nav>
+      <label class="logo">Facechat</label>
+      <label class="sub-text">Video Calls for Everyone</label>
+    </nav>
     <div id="video-grid"></div>
   </body>
 </html>
