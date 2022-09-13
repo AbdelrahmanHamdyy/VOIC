@@ -41,4 +41,6 @@ io.on("connection", (socket) => {
 });
 
 // Start the server on port 3000
-server.listen(process.env.PORT || 3000, "0.0.0.0");
+server.listen(process.env.PORT || 3000, "0.0.0.0", function () {
+  console.log("Server started...");
+});
