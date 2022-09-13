@@ -97,8 +97,6 @@ peerjs --port 3001
 
 <a href="https://drive.google.com/file/d/1SG5ZzVw_bEe_OWayIpKGMgeKjTX1OhBT/view?usp=sharing" >Here</a>
 
-<br>
-
 ## 📷 Screenshots <a name = "Screenshots"></a>
 
 **_Black Screen is a video._**
