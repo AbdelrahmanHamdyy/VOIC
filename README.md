@@ -88,7 +88,7 @@ peerjs --port 3001
 
 <br>
 
-###Go to localhost:3000
+**Go to localhost:3000**
 
 <hr>
 <br>
