@@ -91,9 +91,7 @@ peerjs --port 3001
 **Go to localhost:3000**<br>
 **Copy & paste url elsewhere for a new user to join**
 
-<hr>
-<br>
-
+<hr><br>
 ## 🎥 Live Demo <a name = "demo"></a>
 
 <a href="https://drive.google.com/file/d/1SG5ZzVw_bEe_OWayIpKGMgeKjTX1OhBT/view?usp=sharing" >Here</a>
