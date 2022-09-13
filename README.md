@@ -88,10 +88,7 @@ peerjs --port 3001
 
 <br>
 
-**Go to localhost:3000**
-
-<br>
-
+**Go to localhost:3000**<br>
 **Copy & paste url elsewhere for a new user to join**
 
 <hr>
