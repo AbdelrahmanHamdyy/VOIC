@@ -4,10 +4,7 @@ const socket = io("/");
 const videoGrid = document.getElementById("video-grid");
 // PeerJS handles the ID connection
 // Creates connection between different users using webRTC and a server setup that creates these dynamic IDs
-const myPeer = new Peer(undefined, {
-  host: "/",
-  port: "3001",
-});
+const myPeer = new Peer();
 
 // Create our own video
 const myVideo = document.createElement("video");
