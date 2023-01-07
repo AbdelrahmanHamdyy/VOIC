@@ -113,7 +113,7 @@ peerjs --port 3001
 <table>
   <tr>
     <td align="center">
-    <a href="https://github.com/abdelrahman0123" target="_blank">
+    <a href="https://github.com/AbdelrahmanHamdyy" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/67989900?v=4" width="150px;" alt="Abdelrahman Hamdy"/>
     <br />
     <sub><b>Abdelrahman Hamdy</b></sub></a>
@@ -123,4 +123,4 @@ peerjs --port 3001
 
 ## License <a name = "license"></a>
 
-> This software is licensed under MIT License, See [License](https://github.com/abdelrahman0123/VOIC/blob/main/LICENSE) for more information ©abdelrahman0123.
+> This software is licensed under MIT License, See [License](https://github.com/AbdelrahmanHamdyy/VOIC/blob/main/LICENSE) for more information ©AbdelrahmanHamdyy.
