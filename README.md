@@ -35,7 +35,7 @@
 <br>
 
 ```
-git clone https://github.com/abdelrahman0123/VOIC
+git clone https://github.com/AbdelrahmanHamdyy/VOIC
 ```
 
 <li>Initialize NPM.
