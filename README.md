@@ -5,7 +5,6 @@
 - [About](#about)
 - [Approach](#approach)
 - [Technology](#tech)
-- [Live Demo](#demo)
 - [Screenshots](#Screenshots)
 - [Contributors](#Contributors)
 - [License](#license)
@@ -92,10 +91,6 @@ peerjs --port 3001
 **Copy & paste url elsewhere for a new user to join**
 
 <hr>
- 
-## 🎥 Live Demo <a name = "demo"></a>
-
-<a href="https://drive.google.com/file/d/1SG5ZzVw_bEe_OWayIpKGMgeKjTX1OhBT/view?usp=sharing" >Here</a>
 
 ## 📷 Screenshots <a name = "Screenshots"></a>
 
